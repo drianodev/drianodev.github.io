@@ -1,5 +1,5 @@
 +++
-title = 'My First Post'
+title = 'Olá Mundo!'
 date = 2024-09-19T17:13:57-03:00
 draft = false
 
@@ -17,9 +17,9 @@ searchHidden = false
 ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
-ShowWordCount = true
+ShowWordCount = false
 ShowRssButtonInSectionTermList = true
-UseHugoToc = true
+UseHugoToc = false
 +++
 
 # Saudações

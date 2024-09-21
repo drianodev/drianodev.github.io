@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 19 Sep 2024 17:13:57 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>000 My First Post</title>
+      <title>My First Post</title>
       <link>http://localhost:1313/posts/000-my-first-post/</link>
       <pubDate>Thu, 19 Sep 2024 17:13:57 -0300</pubDate>
       <guid>http://localhost:1313/posts/000-my-first-post/</guid>
-      <description></description>
+      <description>Test description</description>
     </item>
   </channel>
 </rss>
