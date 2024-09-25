@@ -18,9 +18,9 @@ languages:
           name: Sobre
           url: /sobre/
           weight: 10
-        - identifier: arquivos
-          name: Arquivos
-          url: /arquivos/
+        - identifier: blog
+          name: Blog
+          url: /blog/
           weight: 20
         - identifier: projetos
           name: Projetos
@@ -48,9 +48,9 @@ languages:
           name: About
           url: /about/
           weight: 10
-        - identifier: archive
-          name: Archive
-          url: /archive/
+        - identifier: blog
+          name: Blog
+          url: /blog/
           weight: 20
         - identifier: projects
           name: Projects
