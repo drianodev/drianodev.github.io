@@ -11,7 +11,7 @@ languages:
     params:
       homeInfoParams:
         Title: "Olá! Meu nome é Adriano"
-        Content: "Definir isso"
+        Content: "Neste espaço, quero compartilhar ideias, descobertas e projetos que desenvolvo. Atualmente trabalhando como Desenvolvedor Backend Pleno, na área de TI desde 2021 tive diversas experiências e gostaria de compartilhar com vocês."
     menu:
       main:
         - identifier: sobre
@@ -41,7 +41,7 @@ languages:
     params:
       homeInfoParams:
         Title: "Hey! My name is Adriano"
-        Content: "Definir isso"
+        Content: "In this space, I want to share ideas, discoveries and projects that I develop. Currently working as a Mid Backend Developer, in the IT area since 2021 I have had several experiences and I would like to share them with you."
     menu:
       main:
         - identifier: about
