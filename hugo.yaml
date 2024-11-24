@@ -20,7 +20,7 @@ languages:
           weight: 10
         - identifier: blog
           name: Blog
-          url: /blog/
+          url: /posts/
           weight: 20
         - identifier: projetos
           name: Projetos
@@ -50,7 +50,7 @@ languages:
           weight: 10
         - identifier: blog
           name: Blog
-          url: /blog/
+          url: /posts/
           weight: 20
         - identifier: projects
           name: Projects

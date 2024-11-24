@@ -47,4 +47,4 @@ Estou sempre buscando evoluir. Atualmente, tenho explorado mais a fundo tecnolog
 ## **O Que Me Motiva**  
 Sou movido pela vontade de aprender e crescer continuamente. Meu objetivo é usar a tecnologia para criar soluções que impactem positivamente as pessoas e os negócios. Seja ao desenvolver sistemas eficientes ou ao contribuir para o aprendizado de outras pessoas, busco sempre fazer a diferença.  
 
-{{< about >}}
+{{< sobre >}}
