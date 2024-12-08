@@ -68,6 +68,9 @@ languages:
 defaultContentLanguage: pt-br
 defaultContentLanguageInSubdir: true
 
+permalinks:
+  posts: "/:section/:year/:month/:slug/"
+
 taxonomies:
   tag: "tags"
 
@@ -102,6 +105,11 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+sitemap:
+  changefreq: "monthly"
+  filename: "sitemap.xml"
+  priority: 0.5
 
 # For search: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 outputs:
