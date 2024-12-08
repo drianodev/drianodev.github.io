@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/pt-br/sitemap.xml</loc>
+    <loc>https://drianodev.github.io/pt-br/sitemap.xml</loc>
     
       <lastmod>2024-09-19T17:13:57-03:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/en-us/sitemap.xml</loc>
+    <loc>https://drianodev.github.io/en-us/sitemap.xml</loc>
     
       <lastmod>2024-09-19T17:13:57-03:00</lastmod>
     
