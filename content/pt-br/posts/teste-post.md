@@ -1,7 +1,8 @@
 +++
 title = 'Teste Post'
 date = 2024-12-08T17:02:48-03:00
-draft = true
+draft = false
+
 author = "Adriano Lima"
 showToc = true
 TocOpen = false
