@@ -1,8 +1,7 @@
 +++
 title = 'Teste Post'
-date = 2024-12-08T17:02:48-03:00
+date = 2024-12-14T07:54:21-03:00
 draft = false
-
 author = "Adriano Lima"
 showToc = true
 TocOpen = false
@@ -21,4 +20,5 @@ ShowWordCount = false
 ShowRssButtonInSectionTermList = true
 UseHugoToc = false
 +++
-# HELLO WORLD
+
+TESTE DE RSS
